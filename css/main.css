@@ -1,0 +1,101 @@
+/*Classes*/
+body{
+    background-color: rgb(14, 119, 151);
+}
+/*section one*/
+.top-bar nav { 
+    background-color: rgb(14, 119, 151);
+   
+}
+.top-bar nav ul li a {
+    color: black;
+    font-size: 15px;
+    float: right;
+}
+.top-bar {
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/1920x1080/1806/Red-pencil-blackboard_1920x1080.jpg) ;
+    height: 50em;
+     
+}
+.logo {
+    font-family:'Oswald', sans-serif ;
+    color: black;
+    margin-left: 1px;
+    padding-right: 0em;
+    padding: 1px;
+}
+h1 {
+    text-align: center;
+    padding: 3em;
+    font-family: 'Dancing Script', cursive;
+}
+h3 {
+     text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+     margin-top: 2em;
+    padding-top: 2em;
+    padding-left: 1em;
+}
+#logo_principal {
+    padding-left: 15em;
+    margin-bottom: 250px;
+}
+#menu a {
+   background-color: rgb(9, 72, 92);
+   border-radius: 10px;
+   cursor: pointer;
+   margin-left: 8px;
+   padding: 1em;
+   padding-top: 1px;
+   padding-right: 2em;
+   padding-left: 2em;
+   font-family: 'Oswald', sans-serif;
+}
+#menu a input {
+    cursor: pointer;
+    color: rgb(248, 248, 248);
+    border-bottom: rgb(0, 0, 0);
+    border-color: teal;
+    border-bottom: transparent;
+    height: 25px;
+    margin-bottom: 1em;
+    width: 300px;
+}
+/*section one end*/
+
+/*body*/
+
+
+/* fim do body*/
+
+/*footer*/
+.footer {
+    background-color: rgb(9, 72, 92);
+    padding-top: 1em;
+    margin-top: 5em;
+}
+h5 {
+     text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+
+    margin-right: 13.7em;
+}
+div#redes ul li a img {
+  padding-top: 1em;
+  padding: 0.5em;
+  display: block;
+  float: left;
+  margin-left: 1em;
+
+}
+.footer-copyright {
+    background-color:rgb(0, 0, 0);
+    padding-top: 15px;
+}
+.container-footer {
+    color: thistle;
+    padding-bottom: 1em;
+    padding-left: 3em;
+}
